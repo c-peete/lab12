@@ -1,4 +1,4 @@
-
+#This code is the ASCII art used to display hangman
 class Display:
     ascii_art = [
 '''
